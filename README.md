@@ -10,4 +10,4 @@ To run the program:
 
 $ make
 gcc     -o      rwmain  main.c  readerwriter.c  -l      pthread
- ./rwmain
+./rwmain
